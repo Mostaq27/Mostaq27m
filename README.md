@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostaq27&label=Profile%20views&color=0e75b6&style=flat" alt="mostaq27" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media)" alt="" /></a> </p>
 
